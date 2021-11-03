@@ -86,7 +86,7 @@ setTimeout(()=> {
         alert('Gana la compútadora!')
     }
 
-}, 100)
+}, 300)
 
 }
 
